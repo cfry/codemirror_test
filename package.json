@@ -2,7 +2,9 @@
   "name": "codemirror_test",
   "version": "1.0.0",
   "description": "Testing to see if it is possible to use CodeMirror as an npm package.",
-  "scripts": {},
+  "scripts": {
+    "http_server": "http-server"
+  },
   "devDependencies": {
     "http-server": "^13.0.2"
   }
